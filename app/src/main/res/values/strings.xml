@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Photo Cleaner</string>
+    <string name="permission_required">需要相册权限</string>
+    <string name="permission_description">Photo Cleaner 需要访问您的相册来清理照片</string>
+    <string name="grant_permission">授予权限</string>
+    <string name="permission_denied">权限被拒绝</string>
+    <string name="loading_photos">正在加载照片…</string>
+    <string name="no_photos">没有找到照片</string>
+    <string name="swipe_left">左滑跳过</string>
+    <string name="swipe_right">右滑删除</string>
+    <string name="photo_count">第 %1$d / %2$d 张</string>
+    <string name="cleanup_complete">清理完成</string>
+    <string name="deleted_count">已删除 %1$d 张照片</string>
+    <string name="kept_count">保留了 %1$d 张照片</string>
+    <string name="start_again">再来一次</string>
+    <string name="exit">退出</string>
+    <string name="undo">撤销</string>
+    <string name="photo_deleted">照片已删除</string>
+    <string name="photo_skipped">已跳过</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+</resources>
